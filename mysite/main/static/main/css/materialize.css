@@ -3010,6 +3010,7 @@ nav {
     height: 56px;
     line-height: 56px; }
   nav .nav-wrapper {
+    margin-left: 10%;
     position: relative;
     height: 100%; }
   @media only screen and (min-width: 993px) {
@@ -6292,6 +6293,9 @@ input[type=range]::-ms-thumb {
 
   .timepicker-text-container {
     top: 32%; }
+   .anchorClass{
+     margin-left: 5%;
+    }
 
   .timepicker-display-am-pm {
     position: relative;
